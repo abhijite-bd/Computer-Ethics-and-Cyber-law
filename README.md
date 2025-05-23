@@ -1,6 +1,22 @@
+![image](https://github.com/user-attachments/assets/3b4168b0-f227-4602-b204-8fc00aee85fa)
+---
+### Course Title: Computer Ethics and Cyber Law
+### Course Code: CSE455
+---
+### Submitted By    
+**Abhijite Deb Barman**    
+**Id: 2002029**  
+**Level : 4 Semester : II**  
+
+### Submitted To 
+**Pankaj Bhowmik**  
+**Lecturer**   
+**Department of Computer Science and Engineering, HSTU**
+
+---
+
 ## **Assignment Title:**
 **Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples**
-
 ---
 
 ### **1. Introduction**
@@ -101,3 +117,4 @@ Bangladesh is at a crossroads in its digital journey. While technology offers im
 4. NIST Cybersecurity Framework (2018).
 5. Bangladesh Digital Security Act, 2018.
 6. Information and Communication Technology Act, 2006.
+
