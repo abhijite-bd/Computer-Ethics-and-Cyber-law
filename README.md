@@ -234,14 +234,35 @@ Victims of cybercrime often face difficulty in reporting incidents and accessing
 ![cyber_flowchart_updated_short](https://github.com/user-attachments/assets/7d9faa2e-3f53-4ee6-9f12-8bccbb5848dd)
 
 ---
+### **8. Result Comparison and Discussions**
 
-### **8. Conclusion**
+| **Country/Region** | **Law / Framework**                        | **Key Focus Areas**                               | **Notable Strengths**                                    | **Major Concerns / Limitations**                           |
+| ------------------ | ------------------------------------------ | ------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
+| **Bangladesh**     | ICT Act 2006                               | E-transactions, basic cybercrime                  | First attempt at cyber law, supported e-commerce         | Vague definitions, weak enforcement, criticized Section 57 |
+|                    | Digital Security Act 2018                  | Cybercrime, hacking, defamation                   | Updated scope, digital media focus                       | Arbitrary arrests, freedom of speech issues                |
+|                    | RTI Act 2009                               | Access to public info                             | Supports transparency and accountability                 | Weak online access, slow digital response                  |
+|                    | Telecom Regulation Act 2001                | Telecom governance                                | Established regulatory body (BTRC)                       | Doesn’t address digital platforms, outdated scope          |
+| **Estonia**        | Cyber Security Act                         | National infrastructure, digital ID               | Advanced e-governance, secure identity management        | Needs continual tech upgrades                              |
+| **EU**             | GDPR                                       | Data protection, user consent, cross-border rules | Global gold standard, strong enforcement                 | Costly for SMEs, complex compliance                        |
+| **USA**            | CFAA + NIST Framework                      | Unauthorized access, risk-based security          | Sector-specific flexibility, widely adopted              | CFAA can be overly broad, lacks national privacy law       |
+| **Singapore**      | Cybersecurity Act 2018                     | Critical systems, incident reporting              | Mandatory compliance, proactive government role          | Mainly focused on critical infrastructure                  |
+| **Australia**      | Privacy Act 1988 (updated)                 | Personal information handling                     | Clear APPs, breach notifications                         | Needs updates on emerging tech (AI, IoT)                   |
+| **UK**             | CMA 1990 + Online Safety Bill              | Cybercrime, online platform regulation            | Accountability for tech platforms, strong data oversight | Enforcement with global platforms challenging              |
+| **Canada**         | PIPEDA                                     | Commercial data privacy                           | Consent-driven, user rights                              | Patchy provincial enforcement                              |
+| **South Korea**    | PIPA                                       | Comprehensive personal data protection            | Strict consent rules, high penalties                     | Complex compliance for multinationals                      |
+| **Japan**          | APPI                                       | Business & public sector data privacy             | Regular updates, user notification laws                  | Still evolving cross-border data standards                 |
+| **Proposed Data Protection Law** |- | **Personal data rights, consent, privacy**            | **Inspired by GDPR, aims to ensure data protection**         | **Still in draft, concerns over regulatory independence**      |
+
+
+---
+
+### **9. Conclusion**
 
 Bangladesh is at a crossroads in its digital journey. While technology offers immense potential, outdated and misused laws can undermine public trust and national security. By implementing global best practices and establishing a citizen-centric legal and support framework, Bangladesh can ensure a resilient, inclusive, and secure digital future.
 
 ---
 
-### **9. References**
+### **10. References**
 
 1. European Commission (2016). General Data Protection Regulation (GDPR).
 2. Republic of Estonia (2018). Cyber Security Strategy.
